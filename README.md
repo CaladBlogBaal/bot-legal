@@ -5,11 +5,16 @@ Terms of Service and Privacy Policies for Victorique and Tataru
 
 [Read the Victorique Terms of Service](./victorique-terms.md)
 
+[Read the Victorique Privacy Policy](./victorique-policy.md)
+
+
 [View the Victorique source code](https://github.com/CaladBlogBaal/Victorique)
 
 ## Tataru
 
 [Read the Tataru Terms of Service](./tataru-terms.md)
+
+[Read the Tataru Privacy Policy](./tataru-policy.md)
 
 [View the Tataru source code](https://github.com/CaladBlogBaal/Tataru)
 
